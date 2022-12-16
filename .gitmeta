@@ -1,0 +1,4 @@
+chown -h 1000:1000 './icon.svg'
+chmod 0777 './icon.svg'
+/usr/bin/touch -hcmd "2022-12-15 09:30:15.0263520000 -0300" './icon.svg'
+/usr/bin/touch -hcad "2022-12-15 09:30:26.1826220000 -0300" './icon.svg'
